@@ -1,0 +1,11 @@
+# Snyk (https://snyk.io) policy file, patches or ignores known vulnerabilities.
+version: v1.25.0
+# ignores vulnerabilities until expiry date; change duration by modifying expiry date
+ignore:
+  'SNYK:LIC:GOLANG:GITHUB.COM:R3LABS:DIFF:V3:MPL-2.0':
+    - '*':
+        reason: "Use is acceptible, because we don't make adjustments to the code we'd have to re-license and publish under MPL"
+        expires: 2023-04-05T16:40:36.787Z
+        created: 2050-01-01T00:00:00.000Z
+patch: {}
+
