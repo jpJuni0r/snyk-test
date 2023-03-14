@@ -2,7 +2,7 @@
 version: v1.25.0
 # ignores vulnerabilities until expiry date; change duration by modifying expiry date
 ignore:
-  'SNYK:LIC:GOLANG:GITHUB.COM:R3LABS:DIFF:V3:MPL-2.0':
+  'snyk:lic:golang:github.com:r3labs:diff:v3:MPL-2.0':
     - '*':
         reason: "Use is acceptible, because we don't make adjustments to the code we'd have to re-license and publish under MPL"
         expires: 2023-04-05T16:40:36.787Z
