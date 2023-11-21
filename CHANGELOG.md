@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.3](https://github.com/jpJuni0r/snyk-test/compare/v1.0.2...v1.0.3) (2023-11-21)
+
+
+### Bug Fixes
+
+* sample fix ([a989525](https://github.com/jpJuni0r/snyk-test/commit/a989525e781f22ae513de2adfb47dda92225935d))
+
 ## [1.0.2](https://github.com/jpJuni0r/snyk-test/compare/v1.0.1...v1.0.2) (2023-11-21)
 
 
