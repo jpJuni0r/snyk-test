@@ -7,6 +7,13 @@
 
 * sample fix ([cbdd58d](https://github.com/jpJuni0r/snyk-test/commit/cbdd58d438d3128377e90e71cefa4c1fc94c3788))
 
+## [1.0.2](https://github.com/jpJuni0r/snyk-test/compare/v1.0.1...v1.0.2) (2023-11-21)
+
+
+### Bug Fixes
+
+* sample fix ([cbdd58d](https://github.com/jpJuni0r/snyk-test/commit/cbdd58d438d3128377e90e71cefa4c1fc94c3788))
+
 ## [1.0.1](https://github.com/jpJuni0r/snyk-test/compare/v1.0.0...v1.0.1) (2023-11-21)
 
 
