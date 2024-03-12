@@ -1,2 +1,2 @@
-FROM httpd:2.2
+FROM httpd:2.4
 
